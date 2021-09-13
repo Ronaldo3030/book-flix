@@ -1,0 +1,18 @@
+@media screen and (max-width: 700px){
+
+    .button{
+        margin-top: 5px;
+        width: 250px;
+        text-align: center;
+    }
+    .menu{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width: 1000px){
+    .livro-principal{
+        width: 50%;
+    }
+}
